@@ -6,6 +6,8 @@ import {
   faLinkedin,
   faMedium,
   faStackOverflow,
+  faInstagram,
+  faTwitter
 } from "@fortawesome/free-brands-svg-icons";
 import { Box, HStack } from "@chakra-ui/react";
 
@@ -25,7 +27,15 @@ const socials = [
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com/in/cristal-flores-060425261/",
+    url: "https://www.linkedin.com/in/cristalfloresbo/",
+  },
+  {
+    icon: faInstagram,
+    url: "https://www.instagram.com/cristalflores.bo/",
+  },
+  {
+    icon: faTwitter,
+    url: "https://twitter.com/CristalfloresBo",
   },
   // {
   //   icon: faMedium,
@@ -74,6 +84,7 @@ const Header = () => {
   return (
     <Box
       ref={boxRef}
+      zIndex={100}
       position="fixed"
       top={0}
       left={0}
@@ -99,7 +110,7 @@ const Header = () => {
               >
                 {
                   socials.map(item =>
-                  <a key={item.url} href={item.url}>
+                  <a key={item.url} href={item.url} target="_blank">
                     <FontAwesomeIcon icon={item.icon} size='2x' />
                   </a>)
                 }

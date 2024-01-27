@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emailjs/browser": "^3.12.1",
     "@chakra-ui/react": "^2.3.2",
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
@@ -45,6 +46,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3",
-    "prettier": "^2.7.1"
+    "prettier": "^2.8.8"
   }
 }
