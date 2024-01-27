@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/portafolio.github.io/static/css/main.df6a7eab.css",
-    "main.js": "/portafolio.github.io/static/js/main.5aeaf377.js",
+    "main.js": "/portafolio.github.io/static/js/main.7be5eab4.js",
     "static/js/111.944ce873.chunk.js": "/portafolio.github.io/static/js/111.944ce873.chunk.js",
     "static/media/photo4.jpg": "/portafolio.github.io/static/media/photo4.4c7907d15dd9ea0be97c.jpg",
     "static/media/photo2.jpg": "/portafolio.github.io/static/media/photo2.7d510936625768642967.jpg",
     "static/media/photo3.jpg": "/portafolio.github.io/static/media/photo3.9a32dfac129b20149889.jpg",
     "static/media/photo1.jpg": "/portafolio.github.io/static/media/photo1.76b22eb753ddc88e0626.jpg",
+    "static/media/profile-photo.jpeg": "/portafolio.github.io/static/media/profile-photo.9b056a0a80d1009bfa11.jpeg",
     "index.html": "/portafolio.github.io/index.html",
     "main.df6a7eab.css.map": "/portafolio.github.io/static/css/main.df6a7eab.css.map",
-    "main.5aeaf377.js.map": "/portafolio.github.io/static/js/main.5aeaf377.js.map",
+    "main.7be5eab4.js.map": "/portafolio.github.io/static/js/main.7be5eab4.js.map",
     "111.944ce873.chunk.js.map": "/portafolio.github.io/static/js/111.944ce873.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df6a7eab.css",
-    "static/js/main.5aeaf377.js"
+    "static/js/main.7be5eab4.js"
   ]
 }
