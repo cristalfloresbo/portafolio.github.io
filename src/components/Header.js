@@ -17,24 +17,24 @@ const ScrollDirection = Object.freeze({
 const socials = [
   {
     icon: faEnvelope,
-    url: "mailto: hello@example.com",
+    url: "mailto: cristalflores.bo@gmail.com",
   },
   {
     icon: faGithub,
-    url: "https://github.com",
+    url: "https://github.com/cristalft",
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com",
+    url: "https://www.linkedin.com/in/cristal-flores-060425261/",
   },
-  {
-    icon: faMedium,
-    url: "https://medium.com",
-  },
-  {
-    icon: faStackOverflow,
-    url: "https://stackoverflow.com",
-  },
+  // {
+  //   icon: faMedium,
+  //   url: "https://medium.com",
+  // },
+  // {
+  //   icon: faStackOverflow,
+  //   url: "https://stackoverflow.com",
+  // },
 ];
 
 const Header = () => {
